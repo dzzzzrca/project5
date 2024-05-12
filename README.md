@@ -1,6 +1,6 @@
 # Project 5 - Create CRUD API Using Flask and Docker
 
-Tools yang harus disiapkan:
+Tools yang disiapkan:
 
 - docker
 - postman
@@ -12,3 +12,4 @@ API yang dibuat:
 - update user
 - get user
 - delete user
+
