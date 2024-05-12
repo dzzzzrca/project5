@@ -10,7 +10,7 @@ services:
     volumes:
       - pg-data:/var/lib/postgres/data
     ports:
-      - "5433:5432"  # <--- Changed from 5433:5433 to 5433:5432
+      - "5433:5432"  
     restart: always  # <--- Added to ensure container restarts on failure
   flask-app:
     image: project5
